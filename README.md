@@ -3,7 +3,7 @@
 A personal portfolio site showcasing my projects, skills, and experience as a web developer. Built with React and Vite.
 
 
-
+🌐 **Live Site:** [https://myportfolio-zkvl.vercel.app](https://myportfolio-zkvl.vercel.app)
 ---
 
 ## 👩‍💻 About
