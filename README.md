@@ -18,7 +18,7 @@ I design and build responsive websites that are easy to use, visually clean, and
 |---------|----------|-------|
 | [Casa de Flowers](https://ecommerce-app-70965.web.app) | E-commerce | React, Vite, Firebase |
 | [POS System](https://joan-minimart-calculator.netlify.app/) | Minimart POS | React, Vite, CSS, Netlify |
-| [HomeKitchen E-Commerce](https://homekitchenstudioshop.netlify.app/) | Online Shop | HTML, CSS, JavaScript |
+| [HomeKitchen E-Commerce](https://homekitchenstudioshop.netlify.app/) | Online Shop | HTML, CSS, Vanilla JavaScript |
 | [BlueWave Laundry](https://bluewavelaundry.vercel.app/) | Landing Page | React, Vite, CSS, Vercel |
 | [Task Planner](https://joandailyplanner.netlify.app/) | Task Chart | React, Vite, CSS, Netlify |
 

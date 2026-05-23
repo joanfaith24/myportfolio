@@ -30,11 +30,27 @@ const projects = [
     link: "https://joan-minimart-calculator.netlify.app/",
   },
   {
+    title: "JF Farms",
+    category: "WOOCOMMERCE STORE",
+    description:
+      "A farm-to-door delivery store built with WordPress and WooCommerce. Features product variations, Cash on Delivery, shipping zones, and a fully customized Elementor design.",
+    stack: ["WordPress", "WooCommerce", "Elementor", "Astra Theme"],
+    link: "#",
+  },
+  {
+    title: "SlimPlate PH",
+    category: "WORDPRESS SITE",
+    description:
+      " A health and wellness website built with WordPress, Astra theme, and Elementor. Features a clean landing page, service sections, and contact form.",
+    stack: ["WordPress", "CSS", "Elementor", "Astra Theme"],
+    link: "#",
+  },
+  {
     title: "HomeKitchen E-Commerce",
     category: "Online Shop",
     description:
       "A responsive kitchen e-commerce store built with Vanilla JS. Browse and shop kitchen essentials with a clean product layout that works smoothly across all devices.",
-    stack: ["HTML", "CSS", "JavaScript"],
+    stack: ["HTML", "CSS", "Vanilla JavaScript"],
     link: "https://homekitchenstudioshop.netlify.app/",
   },
   {
